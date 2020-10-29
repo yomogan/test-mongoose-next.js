@@ -1,10 +1,10 @@
 {
   "env": {
-    "MONGODB_URI": "mongodb://localhost/test_mongo_nextjs"
+    "MONGODB_URI": "next_example_mongodb_uri"
   },
   "build": {
     "env": {
-      "MONGODB_URI": "mongodb://localhost/test_mongo_nextjs"
+      "MONGODB_URI": "next_example_mongodb_uri"
     }
   }
 }
